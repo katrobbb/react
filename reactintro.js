@@ -7,7 +7,7 @@ class Hello extends React.Component {
         return (
             
             var myStyle = {
-            fontSize: 2rem, color: 'green'
+            fontSize: 200, color: 'green'
             }
             
             <div style={myStyle}>
